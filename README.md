@@ -1,6 +1,3 @@
-К сожалению, за пару дней до написания полифила, я посмотрел его реализацию, но так и не смог ее забыть :c
-https://www.mcieslar.com/implementing-promises-in-javascript
-
 ## Примеры
 ```
 const delay = delay => new Promise(resolve => {
